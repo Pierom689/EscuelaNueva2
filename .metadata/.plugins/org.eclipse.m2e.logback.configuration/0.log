@@ -1,0 +1,36 @@
+2022-10-06 17:24:13,524 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-10-06 17:39:01,002 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-10-06 22:52:34,056 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-10-06 22:53:51,306 [Worker-7: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: pe.com.tiendita:TienditaRest:0.0.1-SNAPSHOT @ H:\Tareas Piero\Curso idad\Quinto Ciclo\Aplicaciones con Enfoque Orientado a Servicios\Tarea\EVC 1 Piero Martell\Tiendita Rest Api\TienditaRest\pom.xml.
+2022-10-06 22:53:51,914 [Worker-4: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: pe.com.tiendita:TienditaRest:0.0.1-SNAPSHOT @ H:\Tareas Piero\Curso idad\Quinto Ciclo\Aplicaciones con Enfoque Orientado a Servicios\Tarea\EVC 1 Piero Martell\Tiendita Rest Api\TienditaRest\pom.xml.
+2022-10-06 22:53:58,056 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-06 22:53:58,056 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-06 22:53:58,059 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-06 22:53:58,077 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-06 22:53:58,079 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-06 22:53:58,079 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-06 22:53:58,079 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\Tareas Piero\Curso idad\Quinto Ciclo\Aplicaciones con Enfoque Orientado a Servicios\Tarea\EVC 1 Piero Martell\Tiendita Rest Api\TienditaRest\src\test\resources
+2022-10-06 22:53:59,130 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-06 22:53:59,130 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-06 22:53:59,132 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-06 22:53:59,134 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-06 22:53:59,136 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-06 22:53:59,137 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-06 22:53:59,137 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\Tareas Piero\Curso idad\Quinto Ciclo\Aplicaciones con Enfoque Orientado a Servicios\Tarea\EVC 1 Piero Martell\Tiendita Rest Api\TienditaRest\src\test\resources
+2022-10-06 22:53:59,617 [Worker-0: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: pe.com.tiendita:TienditaRest:0.0.1-SNAPSHOT @ H:\Tareas Piero\Curso idad\Quinto Ciclo\Aplicaciones con Enfoque Orientado a Servicios\Tarea\EVC 1 Piero Martell\Tiendita Rest Api\TienditaRest\pom.xml.
+2022-10-06 22:54:00,724 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-06 22:54:00,725 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-06 22:54:00,727 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-06 22:54:00,727 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-06 22:54:00,730 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-06 22:54:00,730 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-06 22:54:00,730 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\Tareas Piero\Curso idad\Quinto Ciclo\Aplicaciones con Enfoque Orientado a Servicios\Tarea\EVC 1 Piero Martell\Tiendita Rest Api\TienditaRest\src\test\resources
+2022-10-11 12:53:30,734 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-11-04 11:14:10,297 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-11-04 11:15:22,658 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-04 11:15:22,658 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-04 11:15:22,665 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-11-04 11:15:22,693 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-04 11:15:22,696 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-04 11:15:22,696 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-04 11:15:22,696 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\Tareas Piero\Curso idad\Quinto Ciclo\Aplicaciones con Enfoque Orientado a Servicios\Tarea\EVC 1 Piero Martell\Tiendita Rest Api\TienditaRest\src\test\resources
